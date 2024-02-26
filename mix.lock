@@ -1,0 +1,3 @@
+%{
+  "hexate": {:git, "git@github.com:redmaner/hexate.git", "806df05b9cfa18019029cd0a11e7aa7427187bcb", [tag: "0.7.0"]},
+}
